@@ -113,7 +113,7 @@ svg,img { max-width: 100%; height: auto; }
 	.ds-slider-section, .ds-main-section{ padding: 4.5rem 0 }
 	.ds-slider-loop{ padding-right: 20px }
 	.slick-arrow.slick-next{ right: 1% }
-	.ds-about-link-button span{ left: 0; right: 0; margin: 0 auto }
+	.ds-about-link-button span{ left: 0; right: 0; margin: 0 auto;   font-size: 24px;  }
 	.ds-closebutton{ position: static; margin-top:1.25rem  }
 	.ds-about-section figure,.ds-about-section article{ width: 75% }
 	.ds-about-section figure{margin-bottom: 2.375rem;}
